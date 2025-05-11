@@ -4,7 +4,7 @@ This is a simple **Python GUI application** built using **Tkinter** that allows 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Input month (1-12) and year (1900–2100)
 - Display the calendar for that specific month and year
@@ -14,9 +14,9 @@ This is a simple **Python GUI application** built using **Tkinter** that allows 
 
 ---
 
-## Screenshot
+## Screenshot of Calender Viewer
 
-![Calendar Viewer Screenshot]()
+![Calendar Viewer Screenshot](https://github.com/RichoAye/Calendar-Viewer-/blob/main/output%20of%20%20Calendar%20Viewer%20.png?raw=true)
 
 > Make sure the image is uploaded in the `screenshots/` folder of your GitHub repository.
 
@@ -29,7 +29,7 @@ This is a simple **Python GUI application** built using **Tkinter** that allows 
 - **calendar** module (for generating monthly calendars)
 
 ---
-## ⚠ Error Handling
+##  Error Handling
 
 The application shows error pop-up messages for the following situations:
 
