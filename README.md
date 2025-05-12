@@ -18,7 +18,6 @@ This is a simple **Python GUI application** built using **Tkinter** that allows 
 
 ![Calendar Viewer Screenshot](https://github.com/RichoAye/Calendar-Viewer-/blob/main/output%20of%20%20Calendar%20Viewer%20.png?raw=true)
 
-> Make sure the image is uploaded in the `screenshots/` folder of your GitHub repository.
 
 ---
 
